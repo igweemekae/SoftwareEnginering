@@ -40,6 +40,12 @@
     width: 900px;
     height: 300px;
     display: flex;
-    align-items: center;
     justify-content: space-between;
+    align-items: center;
+  }
+
+  .social,
+  .logo,
+  .subscribe {
+    border: 1px solid #5995DA;
   }
